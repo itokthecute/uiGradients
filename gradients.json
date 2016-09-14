@@ -707,5 +707,10 @@
     {
         "name": "Love Couple",
         "colors": ["#3a6186", "#89253e"]
+    },
+    {
+        "name": "Batanes",
+        "colors": ["#b3cb43", "#0d9bca"]
     }
+    
 ]
